@@ -1,0 +1,57 @@
+Textboxes
+
+1. Each interactable NPC, speech block, prop etc. has a textID variable attached to it. Somewhere,
+something like:
+
+	if !(instance_exists(obj_TextBox2)) {
+		MakeTextbox(textID);		
+	}
+	
+is called. 
+
+2. A script is called, MakeTextbox(textID). This creates a obj_TextBox2 at the bottom of the screen
+at a depth of -10000 so it is in front of everything. The script FindDialogueOrAction(textID)
+is called that switches through all the textIDs to find the right one.
+
+3. An obj_TextBoxQueue is created that serves as a queue for obj_TextBoxWords objects that are text and 
+portraits that are printed on top of an obj_TextBox2 object. Only one can be printed to screen at a time,
+so that is why they are stored into the obj_TextBoxQueue object.
+
+Each case of a textID has one or more textArray and responseArray. Having one means that there is only one
+speaker with the same portrait throughout their speech, or that there is no portrait so nothing but the 
+textArray is used. 
+
+4. After the texts are sorted into the queue, the first one is selected and used in a obj_TextBoxWords.
+This object simply prints text and optionally a portrait on top of a textbox. 
+
+5. Words are typed onto a textbox object and are abled to be cycled through with the spacebar in an event
+of the obj_TextBox2 object. After every spacebar press, the array of dialogue is incremented and the next
+dialogue is accessed. 
+
+6. When that certain dialogue is over, the next textArray of the textID is loaded into a obj_TextBoxWords
+object and is printed to the screen.
+
+7. After that is done, the obj_TextBox2, obj_TextBoxWords and obj_TextBoxQueue objects are destroyed.
+
+
+Cutscene Actions
+
+1. Inside the FindDialogueOrAction script, we can define a struct that contains information about
+who is moving, to where and how fast. More information on how to do this is inside the script
+
+2. CutsceneMoveToXY(actor, targetX, targetY, walkSpeed) can be called from the queue or independently
+elsewhere. This script takes the actor and based on where they are, moves them on the x axis until 
+they meet targetX. Then, they move on the y axis until they meet targetY. They will end up roughly close
+to where they are supposed to be, the margin of error is less than 1 pixel. 
+
+I do this as opposed to move_towards_point() because while that one is useful, it is a little glitchy
+in the sense that if someone is moving straight in any direction as opposed to diagonally, sprites will
+mess up. This is because if something is at (100, 101) and they are trying to move toward (200, 100), 
+they travel 100 pixels on the x axis and only one on the y. However, since it continually moves toward
+(200, 100) and 101 and 100 are only one pixel off, it will often overshoot. So on the next frame, it 
+may place the object at (201, 99), in which their sprite will face up. Next frame, it may be (202, 101),
+then their sprite will be swapped to facing down. This will happen every step of the way, and the
+results are less than optimal. 
+
+3. Once this is called, an obj_MoveToXY is made, which takes care of the movement. Once it is done,
+it is destroyed. 

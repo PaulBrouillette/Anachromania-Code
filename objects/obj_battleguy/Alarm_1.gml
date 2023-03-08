@@ -1,0 +1,3 @@
+/// @desc
+textBoxWait = true;
+

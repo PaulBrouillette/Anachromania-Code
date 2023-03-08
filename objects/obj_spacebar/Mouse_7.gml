@@ -1,0 +1,3 @@
+/// @desc
+FindDialogueOrAction(textID, id);
+

@@ -1,0 +1,1078 @@
+You are using YYP Maker v1.1.4, released in 31-03-2022
+
+
+
+[04-08-2022 23:15:55] Initialized GameMaker Project: Anachromania New.yyp
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/animcurves
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/extensions
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/fonts
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/notes
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects
+[04-08-2022 23:15:55] Checking obj_wooden_table_medium
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_table_medium
+[04-08-2022 23:15:55] Checking obj_wooden_crate
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_crate
+[04-08-2022 23:15:55] Checking obj_wooden_chest
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_chest
+[04-08-2022 23:15:55] Checking obj_warpblock
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpblock
+[04-08-2022 23:15:55] Checking obj_warpanimation
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpanimation
+[04-08-2022 23:15:55] Checking obj_wall
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wall
+[04-08-2022 23:15:55] Checking obj_variablemanager
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_variablemanager
+[04-08-2022 23:15:55] Checking obj_tree1
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_tree1
+[04-08-2022 23:15:55] Checking obj_torch
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_torch
+[04-08-2022 23:15:55] Checking obj_straw_cot
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_straw_cot
+[04-08-2022 23:15:55] Checking obj_small_barrel
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_small_barrel
+[04-08-2022 23:15:55] Checking obj_skills
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_skills
+[04-08-2022 23:15:55] Checking obj_signpost
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_signpost
+[04-08-2022 23:15:55] Checking obj_rustysword
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_rustysword
+[04-08-2022 23:15:55] Checking obj_playerspawner
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_playerspawner
+[04-08-2022 23:15:55] Checking obj_pauser
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_pauser
+[04-08-2022 23:15:55] Checking obj_parallax_sky
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_sky
+[04-08-2022 23:15:55] Checking obj_parallax_forest_overhead
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forest_overhead
+[04-08-2022 23:15:55] Checking obj_parallax_forestsky
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forestsky
+[04-08-2022 23:15:55] Checking obj_parallax_cobwebs
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_cobwebs
+[04-08-2022 23:15:55] Checking obj_large_barrel
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_large_barrel
+[04-08-2022 23:15:55] Checking obj_keg
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_keg
+[04-08-2022 23:15:55] Checking obj_fence
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_fence
+[04-08-2022 23:15:55] Checking obj_enemy_rickety_skeleton
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemy_rickety_skeleton
+[04-08-2022 23:15:55] Checking obj_enemyspawner
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemyspawner
+[04-08-2022 23:15:55] Checking obj_ego_battle
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego_battle
+[04-08-2022 23:15:55] Checking obj_ego
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego
+[04-08-2022 23:15:55] Checking obj_bookcase
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_bookcase
+[04-08-2022 23:15:55] Checking obj_beer_mug
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_beer_mug
+[04-08-2022 23:15:55] Checking obj_battlemanager
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_battlemanager
+[04-08-2022 23:15:55] Checking obj_base_enemy
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_base_enemy
+[04-08-2022 23:15:55] Checking obj_archery_target
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_archery_target
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_archery_target
+[04-08-2022 23:15:55] Checking obj_archery_target.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_archery_target/obj_archery_target.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_archery_target/obj_archery_target.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_archery_target/obj_archery_target.yy"
+[04-08-2022 23:15:55] Found Object: obj_Archery_Target
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_base_enemy
+[04-08-2022 23:15:55] Checking Step_0.gml
+[04-08-2022 23:15:55] Checking obj_base_enemy.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_base_enemy/obj_base_enemy.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_base_enemy/obj_base_enemy.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_base_enemy/obj_base_enemy.yy"
+[04-08-2022 23:15:55] Found Object: obj_Base_Enemy
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_battlemanager
+[04-08-2022 23:15:55] Checking Step_0.gml
+[04-08-2022 23:15:55] Checking obj_battlemanager.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_battlemanager/obj_battlemanager.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_battlemanager/obj_battlemanager.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_battlemanager/obj_battlemanager.yy"
+[04-08-2022 23:15:55] Found Object: obj_BattleManager
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_beer_mug
+[04-08-2022 23:15:55] Checking obj_beer_mug.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_beer_mug/obj_beer_mug.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_beer_mug/obj_beer_mug.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_beer_mug/obj_beer_mug.yy"
+[04-08-2022 23:15:55] Found Object: obj_Beer_Mug
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_bookcase
+[04-08-2022 23:15:55] Checking obj_bookcase.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_bookcase/obj_bookcase.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_bookcase/obj_bookcase.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_bookcase/obj_bookcase.yy"
+[04-08-2022 23:15:55] Found Object: obj_Bookcase
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego
+[04-08-2022 23:15:55] Checking Step_0.gml
+[04-08-2022 23:15:55] Checking obj_ego.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego/obj_ego.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego/obj_ego.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Ego" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego/obj_ego.yy"
+[04-08-2022 23:15:55] Found Object: obj_Ego
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego_battle
+[04-08-2022 23:15:55] Checking obj_ego_battle.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego_battle/obj_ego_battle.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego_battle/obj_ego_battle.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Ego" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_ego_battle/obj_ego_battle.yy"
+[04-08-2022 23:15:55] Found Object: obj_Ego_Battle
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemyspawner
+[04-08-2022 23:15:55] Checking obj_enemyspawner.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemyspawner/obj_enemyspawner.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemyspawner/obj_enemyspawner.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemyspawner/obj_enemyspawner.yy"
+[04-08-2022 23:15:55] Found Object: obj_EnemySpawner
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemy_rickety_skeleton
+[04-08-2022 23:15:55] Checking obj_enemy_rickety_skeleton.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemy_rickety_skeleton/obj_enemy_rickety_skeleton.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemy_rickety_skeleton/obj_enemy_rickety_skeleton.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_enemy_rickety_skeleton/obj_enemy_rickety_skeleton.yy"
+[04-08-2022 23:15:55] Found Object: obj_Enemy_Rickety_Skeleton
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_fence
+[04-08-2022 23:15:55] Checking obj_fence.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_fence/obj_fence.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_fence/obj_fence.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_fence/obj_fence.yy"
+[04-08-2022 23:15:55] Found Object: obj_Fence
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_keg
+[04-08-2022 23:15:55] Checking obj_keg.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_keg/obj_keg.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_keg/obj_keg.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_keg/obj_keg.yy"
+[04-08-2022 23:15:55] Found Object: obj_Keg
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_large_barrel
+[04-08-2022 23:15:55] Checking obj_large_barrel.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_large_barrel/obj_large_barrel.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_large_barrel/obj_large_barrel.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_large_barrel/obj_large_barrel.yy"
+[04-08-2022 23:15:55] Found Object: obj_Large_Barrel
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_cobwebs
+[04-08-2022 23:15:55] Checking obj_parallax_cobwebs.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_cobwebs/obj_parallax_cobwebs.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_cobwebs/obj_parallax_cobwebs.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Parllax Backgrounds" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_cobwebs/obj_parallax_cobwebs.yy"
+[04-08-2022 23:15:55] Found Object: obj_Parallax_Cobwebs
+[04-08-2022 23:15:55] Checking Draw_0.gml
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forestsky
+[04-08-2022 23:15:55] Checking obj_parallax_forestsky.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forestsky/obj_parallax_forestsky.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forestsky/obj_parallax_forestsky.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Parllax Backgrounds" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forestsky/obj_parallax_forestsky.yy"
+[04-08-2022 23:15:55] Found Object: obj_Parallax_ForestSky
+[04-08-2022 23:15:55] Checking Draw_0.gml
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forest_overhead
+[04-08-2022 23:15:55] Checking obj_parallax_forest_overhead.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forest_overhead/obj_parallax_forest_overhead.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forest_overhead/obj_parallax_forest_overhead.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Parllax Backgrounds" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_forest_overhead/obj_parallax_forest_overhead.yy"
+[04-08-2022 23:15:55] Found Object: obj_Parallax_Forest_Overhead
+[04-08-2022 23:15:55] Checking Draw_0.gml
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_sky
+[04-08-2022 23:15:55] Checking obj_parallax_sky.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_sky/obj_parallax_sky.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_sky/obj_parallax_sky.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Parllax Backgrounds" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_parallax_sky/obj_parallax_sky.yy"
+[04-08-2022 23:15:55] Found Object: obj_Parallax_Sky
+[04-08-2022 23:15:55] Checking Draw_0.gml
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_pauser
+[04-08-2022 23:15:55] Checking obj_pauser.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_pauser/obj_pauser.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_pauser/obj_pauser.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Game Logic" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_pauser/obj_pauser.yy"
+[04-08-2022 23:15:55] Found Object: obj_Pauser
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_playerspawner
+[04-08-2022 23:15:55] Checking obj_playerspawner.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_playerspawner/obj_playerspawner.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_playerspawner/obj_playerspawner.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_playerspawner/obj_playerspawner.yy"
+[04-08-2022 23:15:55] Found Object: obj_PlayerSpawner
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_rustysword
+[04-08-2022 23:15:55] Checking obj_rustysword.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_rustysword/obj_rustysword.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_rustysword/obj_rustysword.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Weapons" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_rustysword/obj_rustysword.yy"
+[04-08-2022 23:15:55] Found Object: obj_RustySword
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_signpost
+[04-08-2022 23:15:55] Checking obj_signpost.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_signpost/obj_signpost.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_signpost/obj_signpost.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_signpost/obj_signpost.yy"
+[04-08-2022 23:15:55] Found Object: obj_Signpost
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_skills
+[04-08-2022 23:15:55] Checking obj_skills.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_skills/obj_skills.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_skills/obj_skills.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Battle System" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_skills/obj_skills.yy"
+[04-08-2022 23:15:55] Found Object: obj_Skills
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_small_barrel
+[04-08-2022 23:15:55] Checking obj_small_barrel.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_small_barrel/obj_small_barrel.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_small_barrel/obj_small_barrel.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_small_barrel/obj_small_barrel.yy"
+[04-08-2022 23:15:55] Found Object: obj_Small_Barrel
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_straw_cot
+[04-08-2022 23:15:55] Checking obj_straw_cot.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_straw_cot/obj_straw_cot.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_straw_cot/obj_straw_cot.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_straw_cot/obj_straw_cot.yy"
+[04-08-2022 23:15:55] Found Object: obj_Straw_Cot
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_torch
+[04-08-2022 23:15:55] Checking obj_torch.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_torch/obj_torch.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_torch/obj_torch.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_torch/obj_torch.yy"
+[04-08-2022 23:15:55] Found Object: obj_Torch
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_tree1
+[04-08-2022 23:15:55] Checking obj_tree1.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_tree1/obj_tree1.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_tree1/obj_tree1.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_tree1/obj_tree1.yy"
+[04-08-2022 23:15:55] Found Object: obj_Tree1
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_variablemanager
+[04-08-2022 23:15:55] Checking obj_variablemanager.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_variablemanager/obj_variablemanager.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_variablemanager/obj_variablemanager.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Game Logic" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_variablemanager/obj_variablemanager.yy"
+[04-08-2022 23:15:55] Found Object: obj_VariableManager
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wall
+[04-08-2022 23:15:55] Checking obj_wall.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wall/obj_wall.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wall/obj_wall.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wall/obj_wall.yy"
+[04-08-2022 23:15:55] Found Object: obj_Wall
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpanimation
+[04-08-2022 23:15:55] Checking Step_0.gml
+[04-08-2022 23:15:55] Checking Other_7.gml
+[04-08-2022 23:15:55] Checking obj_warpanimation.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpanimation/obj_warpanimation.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpanimation/obj_warpanimation.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Game Logic" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpanimation/obj_warpanimation.yy"
+[04-08-2022 23:15:55] Found Object: obj_WarpAnimation
+[04-08-2022 23:15:55] Checking Draw_0.gml
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpblock
+[04-08-2022 23:15:55] Checking Step_0.gml
+[04-08-2022 23:15:55] Checking obj_warpblock.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpblock/obj_warpblock.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpblock/obj_warpblock.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Game Logic" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_warpblock/obj_warpblock.yy"
+[04-08-2022 23:15:55] Found Object: obj_WarpBlock
+[04-08-2022 23:15:55] Checking Create_0.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_chest
+[04-08-2022 23:15:55] Checking obj_wooden_chest.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_chest/obj_wooden_chest.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_chest/obj_wooden_chest.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_chest/obj_wooden_chest.yy"
+[04-08-2022 23:15:55] Found Object: obj_Wooden_Chest
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_crate
+[04-08-2022 23:15:55] Checking obj_wooden_crate.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_crate/obj_wooden_crate.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_crate/obj_wooden_crate.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_crate/obj_wooden_crate.yy"
+[04-08-2022 23:15:55] Found Object: obj_Wooden_Crate
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_table_medium
+[04-08-2022 23:15:55] Checking obj_wooden_table_medium.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_table_medium/obj_wooden_table_medium.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_table_medium/obj_wooden_table_medium.yy
+[04-08-2022 23:15:55] Par: "folders/Objects/Collidable Props" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/objects/obj_wooden_table_medium/obj_wooden_table_medium.yy"
+[04-08-2022 23:15:55] Found Object: obj_Wooden_Table_Medium
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options
+[04-08-2022 23:15:55] Checking windows
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/windows
+[04-08-2022 23:15:55] Checking operagx
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/operagx
+[04-08-2022 23:15:55] Checking main
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/main
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/main
+[04-08-2022 23:15:55] Checking options_main.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/main/options_main.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/main/options_main.yy
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/operagx
+[04-08-2022 23:15:55] Checking options_operagx.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/operagx/options_operagx.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/operagx/options_operagx.yy
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/windows
+[04-08-2022 23:15:55] Checking options_windows.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/windows/options_windows.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/options/windows/options_windows.yy
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/paths
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms
+[04-08-2022 23:15:55] Checking room_prison4
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison4
+[04-08-2022 23:15:55] Checking room_prison3
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison3
+[04-08-2022 23:15:55] Checking room_prison2
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison2
+[04-08-2022 23:15:55] Checking room_prison1
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison1
+[04-08-2022 23:15:55] Checking room_grass2
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass2
+[04-08-2022 23:15:55] Checking room_grass1
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass1
+[04-08-2022 23:15:55] Checking room_battleroom
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_battleroom
+[04-08-2022 23:15:55] Checking room_baseroom
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_baseroom
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_baseroom
+[04-08-2022 23:15:55] Checking room_baseroom.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_baseroom/room_baseroom.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_baseroom/room_baseroom.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_baseroom/room_baseroom.yy"
+[04-08-2022 23:15:55] Found Room: room_BaseRoom
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_battleroom
+[04-08-2022 23:15:55] Checking room_battleroom.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_battleroom/room_battleroom.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_battleroom/room_battleroom.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_battleroom/room_battleroom.yy"
+[04-08-2022 23:15:55] Found Room: room_BattleRoom
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass1
+[04-08-2022 23:15:55] Checking room_grass1.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass1/room_grass1.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass1/room_grass1.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass1/room_grass1.yy"
+[04-08-2022 23:15:55] Found Room: room_Grass1
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_5850B56.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass2
+[04-08-2022 23:15:55] Checking room_grass2.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass2/room_grass2.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass2/room_grass2.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_grass2/room_grass2.yy"
+[04-08-2022 23:15:55] Found Room: room_Grass2
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison1
+[04-08-2022 23:15:55] Checking room_prison1.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison1/room_prison1.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison1/room_prison1.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms/Prison" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison1/room_prison1.yy"
+[04-08-2022 23:15:55] Found Room: room_Prison1
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_5F1E177C.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison2
+[04-08-2022 23:15:55] Checking room_prison2.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison2/room_prison2.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison2/room_prison2.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms/Prison" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison2/room_prison2.yy"
+[04-08-2022 23:15:55] Found Room: room_Prison2
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_B68C59A.gml
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_4A11751.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison3
+[04-08-2022 23:15:55] Checking room_prison3.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison3/room_prison3.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison3/room_prison3.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms/Prison" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison3/room_prison3.yy"
+[04-08-2022 23:15:55] Found Room: room_Prison3
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_B68C59A_1.gml
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_784E127A.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison4
+[04-08-2022 23:15:55] Checking room_prison4.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison4/room_prison4.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison4/room_prison4.yy
+[04-08-2022 23:15:55] Par: "folders/Rooms/Prison" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/rooms/room_prison4/room_prison4.yy"
+[04-08-2022 23:15:55] Found Room: room_Prison4
+[04-08-2022 23:15:55] Checking InstanceCreationCode_inst_719A8714.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts
+[04-08-2022 23:15:55] Checking script_macros
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/script_macros
+[04-08-2022 23:15:55] Checking playermove
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/playermove
+[04-08-2022 23:15:55] Checking bubblesort
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/bubblesort
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/bubblesort
+[04-08-2022 23:15:55] Checking bubblesort.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/bubblesort/bubblesort.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/bubblesort/bubblesort.yy
+[04-08-2022 23:15:55] Par: "folders/Scripts/Battle Scripts" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/bubblesort/bubblesort.yy"
+[04-08-2022 23:15:55] Found Script: BubbleSort
+[04-08-2022 23:15:55] Checking bubblesort.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/playermove
+[04-08-2022 23:15:55] Checking playermove.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/playermove/playermove.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/playermove/playermove.yy
+[04-08-2022 23:15:55] Par: "folders/Scripts" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/playermove/playermove.yy"
+[04-08-2022 23:15:55] Found Script: PlayerMove
+[04-08-2022 23:15:55] Checking playermove.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/script_macros
+[04-08-2022 23:15:55] Checking script_macros.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/script_macros/script_macros.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/script_macros/script_macros.yy
+[04-08-2022 23:15:55] Par: "folders/Scripts" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/scripts/script_macros/script_macros.yy"
+[04-08-2022 23:15:55] Found Script: Script_Macros
+[04-08-2022 23:15:55] Checking script_macros.gml
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sequences
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/shaders
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sounds
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites
+[04-08-2022 23:15:55] Checking spr_wood_crate
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate
+[04-08-2022 23:15:55] Checking spr_wooden_table_medium
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium
+[04-08-2022 23:15:55] Checking spr_woodenchest
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest
+[04-08-2022 23:15:55] Checking spr_warpblock
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock
+[04-08-2022 23:15:55] Checking spr_wall
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall
+[04-08-2022 23:15:55] Checking spr_tree1
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1
+[04-08-2022 23:15:55] Checking spr_torch
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch
+[04-08-2022 23:15:55] Checking spr_target
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target
+[04-08-2022 23:15:55] Checking spr_stones1
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1
+[04-08-2022 23:15:55] Checking spr_small_barrel
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel
+[04-08-2022 23:15:55] Checking spr_sky
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky
+[04-08-2022 23:15:55] Checking spr_signpost
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost
+[04-08-2022 23:15:55] Checking spr_player_up
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up
+[04-08-2022 23:15:55] Checking spr_player_right
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right
+[04-08-2022 23:15:55] Checking spr_player_left
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left
+[04-08-2022 23:15:55] Checking spr_player_down
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down
+[04-08-2022 23:15:55] Checking spr_large_barrel
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel
+[04-08-2022 23:15:55] Checking spr_keg
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg
+[04-08-2022 23:15:55] Checking spr_grassy_tiles
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles
+[04-08-2022 23:15:55] Checking spr_foresttop
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop
+[04-08-2022 23:15:55] Checking spr_forestsky
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky
+[04-08-2022 23:15:55] Checking spr_fence
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence
+[04-08-2022 23:15:55] Checking spr_fade
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade
+[04-08-2022 23:15:55] Checking spr_cot
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot
+[04-08-2022 23:15:55] Checking spr_cobwebs
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs
+[04-08-2022 23:15:55] Checking spr_bookcase
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase
+[04-08-2022 23:15:55] Checking spr_beer_mug
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug
+[04-08-2022 23:15:55] Checking spr_battlebackground
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground
+[04-08-2022 23:15:55] Checking spr_battlebackground.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/spr_battlebackground.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/spr_battlebackground.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/spr_battlebackground.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_BattleBackground
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/layers
+[04-08-2022 23:15:55] Checking a6bcf64a-3248-4d95-9276-e159ce495714.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/layers
+[04-08-2022 23:15:55] Checking a6bcf64a-3248-4d95-9276-e159ce495714
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/layers/a6bcf64a-3248-4d95-9276-e159ce495714
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_battlebackground/layers/a6bcf64a-3248-4d95-9276-e159ce495714
+[04-08-2022 23:15:55] Checking 510cdc9f-cb24-4dac-80d8-141e97c2d589.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug
+[04-08-2022 23:15:55] Checking spr_beer_mug.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/spr_beer_mug.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/spr_beer_mug.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/spr_beer_mug.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Beer_Mug
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers
+[04-08-2022 23:15:55] Checking 5a777dce-b818-4112-8364-ecac323b75e9.png
+[04-08-2022 23:15:55] Checking 40f45dbe-52c4-4c28-85a0-0976e764133b.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers
+[04-08-2022 23:15:55] Checking 5a777dce-b818-4112-8364-ecac323b75e9
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers/5a777dce-b818-4112-8364-ecac323b75e9
+[04-08-2022 23:15:55] Checking 40f45dbe-52c4-4c28-85a0-0976e764133b
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers/40f45dbe-52c4-4c28-85a0-0976e764133b
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers/40f45dbe-52c4-4c28-85a0-0976e764133b
+[04-08-2022 23:15:55] Checking d5e97278-e629-49af-91c9-153f258608d2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_beer_mug/layers/5a777dce-b818-4112-8364-ecac323b75e9
+[04-08-2022 23:15:55] Checking d5e97278-e629-49af-91c9-153f258608d2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase
+[04-08-2022 23:15:55] Checking spr_bookcase.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/spr_bookcase.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/spr_bookcase.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/spr_bookcase.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Bookcase
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers
+[04-08-2022 23:15:55] Checking c3cb2c4d-047a-4626-a9e4-783f4803fd61.png
+[04-08-2022 23:15:55] Checking 7f17b9e5-33fd-4956-aa5f-2dce88a7de04.png
+[04-08-2022 23:15:55] Checking 24f25b17-36db-4418-b0f4-8d62f42d8ff3.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers
+[04-08-2022 23:15:55] Checking c3cb2c4d-047a-4626-a9e4-783f4803fd61
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/c3cb2c4d-047a-4626-a9e4-783f4803fd61
+[04-08-2022 23:15:55] Checking 7f17b9e5-33fd-4956-aa5f-2dce88a7de04
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/7f17b9e5-33fd-4956-aa5f-2dce88a7de04
+[04-08-2022 23:15:55] Checking 24f25b17-36db-4418-b0f4-8d62f42d8ff3
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/24f25b17-36db-4418-b0f4-8d62f42d8ff3
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/24f25b17-36db-4418-b0f4-8d62f42d8ff3
+[04-08-2022 23:15:55] Checking 37d98ee9-f632-4f9c-a6bd-f820f0c7977f.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/7f17b9e5-33fd-4956-aa5f-2dce88a7de04
+[04-08-2022 23:15:55] Checking 37d98ee9-f632-4f9c-a6bd-f820f0c7977f.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_bookcase/layers/c3cb2c4d-047a-4626-a9e4-783f4803fd61
+[04-08-2022 23:15:55] Checking 37d98ee9-f632-4f9c-a6bd-f820f0c7977f.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs
+[04-08-2022 23:15:55] Checking spr_cobwebs.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/spr_cobwebs.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/spr_cobwebs.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Parallax Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/spr_cobwebs.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Cobwebs
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers
+[04-08-2022 23:15:55] Checking e88f7304-339e-4c17-ad86-4e3959deb227.png
+[04-08-2022 23:15:55] Checking 7c884050-ce3f-4ad2-b3fd-d8bb1c4a705e.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers
+[04-08-2022 23:15:55] Checking e88f7304-339e-4c17-ad86-4e3959deb227
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers/e88f7304-339e-4c17-ad86-4e3959deb227
+[04-08-2022 23:15:55] Checking 7c884050-ce3f-4ad2-b3fd-d8bb1c4a705e
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers/7c884050-ce3f-4ad2-b3fd-d8bb1c4a705e
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers/7c884050-ce3f-4ad2-b3fd-d8bb1c4a705e
+[04-08-2022 23:15:55] Checking 7f0507dd-bb13-425c-b99e-f77677b68cbd.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cobwebs/layers/e88f7304-339e-4c17-ad86-4e3959deb227
+[04-08-2022 23:15:55] Checking 7f0507dd-bb13-425c-b99e-f77677b68cbd.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot
+[04-08-2022 23:15:55] Checking spr_cot.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/spr_cot.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/spr_cot.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/spr_cot.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Cot
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/layers
+[04-08-2022 23:15:55] Checking 3cfaf661-17f8-4f7f-a928-66d3326f379b.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/layers
+[04-08-2022 23:15:55] Checking 3cfaf661-17f8-4f7f-a928-66d3326f379b
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/layers/3cfaf661-17f8-4f7f-a928-66d3326f379b
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_cot/layers/3cfaf661-17f8-4f7f-a928-66d3326f379b
+[04-08-2022 23:15:55] Checking 7a2b27a6-8a40-418f-97a3-e18b08b4a201.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade
+[04-08-2022 23:15:55] Checking spr_fade.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/spr_fade.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/spr_fade.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Game Effects" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/spr_fade.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Fade
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers
+[04-08-2022 23:15:55] Checking f32edf67-2505-4d8e-a84f-897688529f39.png
+[04-08-2022 23:15:55] Checking d84cba10-a90d-452d-9c45-0958de9425bd.png
+[04-08-2022 23:15:55] Checking b9fc18fb-66df-4177-933e-7f618a83da72.png
+[04-08-2022 23:15:55] Checking 90ab8d7f-de74-4897-9f27-9b5ca7fd0897.png
+[04-08-2022 23:15:55] Checking 781fc655-972f-413c-8ada-2932b393730b.png
+[04-08-2022 23:15:55] Checking 77cf6ef8-2c4f-45d9-a188-77362c509125.png
+[04-08-2022 23:15:55] Checking 6ed8e13a-bb67-4720-aeaa-7d63adda1a10.png
+[04-08-2022 23:15:55] Checking 6c3d7122-20e9-4e30-b8dd-29b5f2815891.png
+[04-08-2022 23:15:55] Checking 62428aa9-fde5-413b-af08-d7c3ae0b3e50.png
+[04-08-2022 23:15:55] Checking 56f43764-8963-42ea-acd9-fb6e7a2ff54d.png
+[04-08-2022 23:15:55] Checking 46832e80-17ca-4f26-ae95-4a3521b179a0.png
+[04-08-2022 23:15:55] Checking 3ede9df9-d633-4b22-97d2-ab6fad51e79f.png
+[04-08-2022 23:15:55] Checking 2eae44ec-750f-4a3b-8a3f-a8b18f29fb06.png
+[04-08-2022 23:15:55] Checking 2d0592bc-bbc3-490a-bdce-5f00bbc34017.png
+[04-08-2022 23:15:55] Checking 14247938-8afb-498d-8e17-891ef7301608.png
+[04-08-2022 23:15:55] Checking 0343dc75-ed4d-453f-9662-88aee283a743.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers
+[04-08-2022 23:15:55] Checking f32edf67-2505-4d8e-a84f-897688529f39
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/f32edf67-2505-4d8e-a84f-897688529f39
+[04-08-2022 23:15:55] Checking d84cba10-a90d-452d-9c45-0958de9425bd
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/d84cba10-a90d-452d-9c45-0958de9425bd
+[04-08-2022 23:15:55] Checking b9fc18fb-66df-4177-933e-7f618a83da72
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/b9fc18fb-66df-4177-933e-7f618a83da72
+[04-08-2022 23:15:55] Checking 90ab8d7f-de74-4897-9f27-9b5ca7fd0897
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/90ab8d7f-de74-4897-9f27-9b5ca7fd0897
+[04-08-2022 23:15:55] Checking 781fc655-972f-413c-8ada-2932b393730b
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/781fc655-972f-413c-8ada-2932b393730b
+[04-08-2022 23:15:55] Checking 77cf6ef8-2c4f-45d9-a188-77362c509125
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/77cf6ef8-2c4f-45d9-a188-77362c509125
+[04-08-2022 23:15:55] Checking 6ed8e13a-bb67-4720-aeaa-7d63adda1a10
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/6ed8e13a-bb67-4720-aeaa-7d63adda1a10
+[04-08-2022 23:15:55] Checking 6c3d7122-20e9-4e30-b8dd-29b5f2815891
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/6c3d7122-20e9-4e30-b8dd-29b5f2815891
+[04-08-2022 23:15:55] Checking 62428aa9-fde5-413b-af08-d7c3ae0b3e50
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/62428aa9-fde5-413b-af08-d7c3ae0b3e50
+[04-08-2022 23:15:55] Checking 56f43764-8963-42ea-acd9-fb6e7a2ff54d
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/56f43764-8963-42ea-acd9-fb6e7a2ff54d
+[04-08-2022 23:15:55] Checking 46832e80-17ca-4f26-ae95-4a3521b179a0
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/46832e80-17ca-4f26-ae95-4a3521b179a0
+[04-08-2022 23:15:55] Checking 3ede9df9-d633-4b22-97d2-ab6fad51e79f
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/3ede9df9-d633-4b22-97d2-ab6fad51e79f
+[04-08-2022 23:15:55] Checking 2eae44ec-750f-4a3b-8a3f-a8b18f29fb06
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/2eae44ec-750f-4a3b-8a3f-a8b18f29fb06
+[04-08-2022 23:15:55] Checking 2d0592bc-bbc3-490a-bdce-5f00bbc34017
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/2d0592bc-bbc3-490a-bdce-5f00bbc34017
+[04-08-2022 23:15:55] Checking 14247938-8afb-498d-8e17-891ef7301608
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/14247938-8afb-498d-8e17-891ef7301608
+[04-08-2022 23:15:55] Checking 0343dc75-ed4d-453f-9662-88aee283a743
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/0343dc75-ed4d-453f-9662-88aee283a743
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/0343dc75-ed4d-453f-9662-88aee283a743
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/14247938-8afb-498d-8e17-891ef7301608
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/2d0592bc-bbc3-490a-bdce-5f00bbc34017
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/2eae44ec-750f-4a3b-8a3f-a8b18f29fb06
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/3ede9df9-d633-4b22-97d2-ab6fad51e79f
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/46832e80-17ca-4f26-ae95-4a3521b179a0
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/56f43764-8963-42ea-acd9-fb6e7a2ff54d
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/62428aa9-fde5-413b-af08-d7c3ae0b3e50
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/6c3d7122-20e9-4e30-b8dd-29b5f2815891
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/6ed8e13a-bb67-4720-aeaa-7d63adda1a10
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/77cf6ef8-2c4f-45d9-a188-77362c509125
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/781fc655-972f-413c-8ada-2932b393730b
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/90ab8d7f-de74-4897-9f27-9b5ca7fd0897
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/b9fc18fb-66df-4177-933e-7f618a83da72
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/d84cba10-a90d-452d-9c45-0958de9425bd
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fade/layers/f32edf67-2505-4d8e-a84f-897688529f39
+[04-08-2022 23:15:55] Checking c66cf8f4-5611-4358-b7b3-e43a097ee1e2.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence
+[04-08-2022 23:15:55] Checking spr_fence.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/spr_fence.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/spr_fence.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/spr_fence.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Fence
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/layers
+[04-08-2022 23:15:55] Checking 4716d386-afbb-468b-833a-6f762ee07444.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/layers
+[04-08-2022 23:15:55] Checking 4716d386-afbb-468b-833a-6f762ee07444
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/layers/4716d386-afbb-468b-833a-6f762ee07444
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_fence/layers/4716d386-afbb-468b-833a-6f762ee07444
+[04-08-2022 23:15:55] Checking f714efef-649b-4211-ba7d-cf35d8412a57.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky
+[04-08-2022 23:15:55] Checking spr_forestsky.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/spr_forestsky.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/spr_forestsky.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Parallax Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/spr_forestsky.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_ForestSky
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers
+[04-08-2022 23:15:55] Checking 65a8dbdc-a673-4bc0-b923-4cdf03081be3.png
+[04-08-2022 23:15:55] Checking 55e50af2-8a8d-4391-b79d-68264f459bfd.png
+[04-08-2022 23:15:55] Checking 2927d1d4-31bc-4bbe-8e87-bd56b5855d15.png
+[04-08-2022 23:15:55] Checking 039601e1-19b4-45e8-a8dd-cdc91535e4fd.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers
+[04-08-2022 23:15:55] Checking 65a8dbdc-a673-4bc0-b923-4cdf03081be3
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/65a8dbdc-a673-4bc0-b923-4cdf03081be3
+[04-08-2022 23:15:55] Checking 55e50af2-8a8d-4391-b79d-68264f459bfd
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/55e50af2-8a8d-4391-b79d-68264f459bfd
+[04-08-2022 23:15:55] Checking 2927d1d4-31bc-4bbe-8e87-bd56b5855d15
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/2927d1d4-31bc-4bbe-8e87-bd56b5855d15
+[04-08-2022 23:15:55] Checking 039601e1-19b4-45e8-a8dd-cdc91535e4fd
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/039601e1-19b4-45e8-a8dd-cdc91535e4fd
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/039601e1-19b4-45e8-a8dd-cdc91535e4fd
+[04-08-2022 23:15:55] Checking ea1a647a-3649-4133-b333-050a854f9cde.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/2927d1d4-31bc-4bbe-8e87-bd56b5855d15
+[04-08-2022 23:15:55] Checking ea1a647a-3649-4133-b333-050a854f9cde.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/55e50af2-8a8d-4391-b79d-68264f459bfd
+[04-08-2022 23:15:55] Checking ea1a647a-3649-4133-b333-050a854f9cde.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_forestsky/layers/65a8dbdc-a673-4bc0-b923-4cdf03081be3
+[04-08-2022 23:15:55] Checking ea1a647a-3649-4133-b333-050a854f9cde.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop
+[04-08-2022 23:15:55] Checking spr_foresttop.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/spr_foresttop.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/spr_foresttop.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Parallax Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/spr_foresttop.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_ForestTop
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/layers
+[04-08-2022 23:15:55] Checking d5764e67-c942-45b6-89e7-efc2fb102238.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/layers
+[04-08-2022 23:15:55] Checking d5764e67-c942-45b6-89e7-efc2fb102238
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/layers/d5764e67-c942-45b6-89e7-efc2fb102238
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_foresttop/layers/d5764e67-c942-45b6-89e7-efc2fb102238
+[04-08-2022 23:15:55] Checking 4159ee44-45ce-4d21-ae03-65d548bb667c.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles
+[04-08-2022 23:15:55] Checking spr_grassy_tiles.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/spr_grassy_tiles.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/spr_grassy_tiles.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Sprites for Tilesets" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/spr_grassy_tiles.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Grassy_Tiles
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/layers
+[04-08-2022 23:15:55] Checking 0e3c4b5a-c98a-4db9-b3ee-adcb45008228.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/layers
+[04-08-2022 23:15:55] Checking 0e3c4b5a-c98a-4db9-b3ee-adcb45008228
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/layers/0e3c4b5a-c98a-4db9-b3ee-adcb45008228
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_grassy_tiles/layers/0e3c4b5a-c98a-4db9-b3ee-adcb45008228
+[04-08-2022 23:15:55] Checking 92cb9b37-e2ec-4777-9b90-eb5f60fd1274.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg
+[04-08-2022 23:15:55] Checking spr_keg.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/spr_keg.yy
+[04-08-2022 23:15:55] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/spr_keg.yy
+[04-08-2022 23:15:55] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/spr_keg.yy"
+[04-08-2022 23:15:55] Found Sprite: spr_Keg
+[04-08-2022 23:15:55] Checking layers
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/layers
+[04-08-2022 23:15:55] Checking 2d5ab9f1-b561-4dc1-8010-14f14993bd45.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/layers
+[04-08-2022 23:15:55] Checking 2d5ab9f1-b561-4dc1-8010-14f14993bd45
+[04-08-2022 23:15:55] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/layers/2d5ab9f1-b561-4dc1-8010-14f14993bd45
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_keg/layers/2d5ab9f1-b561-4dc1-8010-14f14993bd45
+[04-08-2022 23:15:55] Checking cc56d775-4b09-40e6-8132-c8091e5a4e2c.png
+[04-08-2022 23:15:55] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel
+[04-08-2022 23:15:55] Checking spr_large_barrel.yy
+[04-08-2022 23:15:55] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/spr_large_barrel.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/spr_large_barrel.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/spr_large_barrel.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Large_Barrel
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/layers
+[04-08-2022 23:15:56] Checking 8893b578-7468-4ec4-852e-d6a53d678bd4.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/layers
+[04-08-2022 23:15:56] Checking 8893b578-7468-4ec4-852e-d6a53d678bd4
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/layers/8893b578-7468-4ec4-852e-d6a53d678bd4
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_large_barrel/layers/8893b578-7468-4ec4-852e-d6a53d678bd4
+[04-08-2022 23:15:56] Checking 00b1e11a-0100-4a8c-a172-36aad30d2b53.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down
+[04-08-2022 23:15:56] Checking spr_player_down.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/spr_player_down.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/spr_player_down.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/spr_Player" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/spr_player_down.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Player_Down
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers
+[04-08-2022 23:15:56] Checking ac51aed4-f725-4cc3-b4c6-6e52c0811f44.png
+[04-08-2022 23:15:56] Checking 869318c6-53a7-4f43-86e6-e225ee6648df.png
+[04-08-2022 23:15:56] Checking 4d6475ee-f2a2-4a9a-bef6-af812fa0ef98.png
+[04-08-2022 23:15:56] Checking 031b0fd2-39db-491b-ac22-38c748352506.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers
+[04-08-2022 23:15:56] Checking ac51aed4-f725-4cc3-b4c6-6e52c0811f44
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/ac51aed4-f725-4cc3-b4c6-6e52c0811f44
+[04-08-2022 23:15:56] Checking 869318c6-53a7-4f43-86e6-e225ee6648df
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/869318c6-53a7-4f43-86e6-e225ee6648df
+[04-08-2022 23:15:56] Checking 4d6475ee-f2a2-4a9a-bef6-af812fa0ef98
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/4d6475ee-f2a2-4a9a-bef6-af812fa0ef98
+[04-08-2022 23:15:56] Checking 031b0fd2-39db-491b-ac22-38c748352506
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/031b0fd2-39db-491b-ac22-38c748352506
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/031b0fd2-39db-491b-ac22-38c748352506
+[04-08-2022 23:15:56] Checking 31b23601-edb9-4fe4-bcff-b57cfdab4e4b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/4d6475ee-f2a2-4a9a-bef6-af812fa0ef98
+[04-08-2022 23:15:56] Checking 31b23601-edb9-4fe4-bcff-b57cfdab4e4b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/869318c6-53a7-4f43-86e6-e225ee6648df
+[04-08-2022 23:15:56] Checking 31b23601-edb9-4fe4-bcff-b57cfdab4e4b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_down/layers/ac51aed4-f725-4cc3-b4c6-6e52c0811f44
+[04-08-2022 23:15:56] Checking 31b23601-edb9-4fe4-bcff-b57cfdab4e4b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left
+[04-08-2022 23:15:56] Checking spr_player_left.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/spr_player_left.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/spr_player_left.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/spr_Player" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/spr_player_left.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Player_Left
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers
+[04-08-2022 23:15:56] Checking a5554210-8b99-460e-befe-b382c7dc5163.png
+[04-08-2022 23:15:56] Checking 9c2ac036-7022-467c-8a92-3cf933b58737.png
+[04-08-2022 23:15:56] Checking 5c32cfcd-baa7-44dc-82f9-c4487276bd1d.png
+[04-08-2022 23:15:56] Checking 58825a25-f4a5-4809-a14a-3e43aea9f238.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers
+[04-08-2022 23:15:56] Checking a5554210-8b99-460e-befe-b382c7dc5163
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/a5554210-8b99-460e-befe-b382c7dc5163
+[04-08-2022 23:15:56] Checking 9c2ac036-7022-467c-8a92-3cf933b58737
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/9c2ac036-7022-467c-8a92-3cf933b58737
+[04-08-2022 23:15:56] Checking 5c32cfcd-baa7-44dc-82f9-c4487276bd1d
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/5c32cfcd-baa7-44dc-82f9-c4487276bd1d
+[04-08-2022 23:15:56] Checking 58825a25-f4a5-4809-a14a-3e43aea9f238
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/58825a25-f4a5-4809-a14a-3e43aea9f238
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/58825a25-f4a5-4809-a14a-3e43aea9f238
+[04-08-2022 23:15:56] Checking da2873b7-ee00-4417-bbe1-8a3a5ca02b87.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/5c32cfcd-baa7-44dc-82f9-c4487276bd1d
+[04-08-2022 23:15:56] Checking da2873b7-ee00-4417-bbe1-8a3a5ca02b87.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/9c2ac036-7022-467c-8a92-3cf933b58737
+[04-08-2022 23:15:56] Checking da2873b7-ee00-4417-bbe1-8a3a5ca02b87.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_left/layers/a5554210-8b99-460e-befe-b382c7dc5163
+[04-08-2022 23:15:56] Checking da2873b7-ee00-4417-bbe1-8a3a5ca02b87.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right
+[04-08-2022 23:15:56] Checking spr_player_right.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/spr_player_right.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/spr_player_right.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/spr_Player" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/spr_player_right.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Player_Right
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers
+[04-08-2022 23:15:56] Checking cb1e8e8f-0514-477e-9053-eb3e40825454.png
+[04-08-2022 23:15:56] Checking a28e1dfe-7f5c-42bd-92c1-11a3e7245bac.png
+[04-08-2022 23:15:56] Checking 47be910b-0477-4741-be74-3221e110a776.png
+[04-08-2022 23:15:56] Checking 4338f959-410a-47bc-933f-8cf0e38bce93.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers
+[04-08-2022 23:15:56] Checking cb1e8e8f-0514-477e-9053-eb3e40825454
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/cb1e8e8f-0514-477e-9053-eb3e40825454
+[04-08-2022 23:15:56] Checking a28e1dfe-7f5c-42bd-92c1-11a3e7245bac
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/a28e1dfe-7f5c-42bd-92c1-11a3e7245bac
+[04-08-2022 23:15:56] Checking 47be910b-0477-4741-be74-3221e110a776
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/47be910b-0477-4741-be74-3221e110a776
+[04-08-2022 23:15:56] Checking 4338f959-410a-47bc-933f-8cf0e38bce93
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/4338f959-410a-47bc-933f-8cf0e38bce93
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/4338f959-410a-47bc-933f-8cf0e38bce93
+[04-08-2022 23:15:56] Checking d16276cc-c396-4be8-8e1e-e76b87e6465d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/47be910b-0477-4741-be74-3221e110a776
+[04-08-2022 23:15:56] Checking d16276cc-c396-4be8-8e1e-e76b87e6465d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/a28e1dfe-7f5c-42bd-92c1-11a3e7245bac
+[04-08-2022 23:15:56] Checking d16276cc-c396-4be8-8e1e-e76b87e6465d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_right/layers/cb1e8e8f-0514-477e-9053-eb3e40825454
+[04-08-2022 23:15:56] Checking d16276cc-c396-4be8-8e1e-e76b87e6465d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up
+[04-08-2022 23:15:56] Checking spr_player_up.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/spr_player_up.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/spr_player_up.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/spr_Player" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/spr_player_up.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Player_Up
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers
+[04-08-2022 23:15:56] Checking e21c66a7-c415-4278-9e4d-734856c75960.png
+[04-08-2022 23:15:56] Checking 78ba489f-5948-4e37-bcdc-c697f76b5e4a.png
+[04-08-2022 23:15:56] Checking 5885f966-b957-4e88-9b88-2918efd75bb4.png
+[04-08-2022 23:15:56] Checking 4d3fb64b-d3bc-4aeb-b2d1-b0d19e0f659d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers
+[04-08-2022 23:15:56] Checking e21c66a7-c415-4278-9e4d-734856c75960
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/e21c66a7-c415-4278-9e4d-734856c75960
+[04-08-2022 23:15:56] Checking 78ba489f-5948-4e37-bcdc-c697f76b5e4a
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/78ba489f-5948-4e37-bcdc-c697f76b5e4a
+[04-08-2022 23:15:56] Checking 5885f966-b957-4e88-9b88-2918efd75bb4
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/5885f966-b957-4e88-9b88-2918efd75bb4
+[04-08-2022 23:15:56] Checking 4d3fb64b-d3bc-4aeb-b2d1-b0d19e0f659d
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/4d3fb64b-d3bc-4aeb-b2d1-b0d19e0f659d
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/4d3fb64b-d3bc-4aeb-b2d1-b0d19e0f659d
+[04-08-2022 23:15:56] Checking 2acad569-0d81-4359-9080-e2a393ced111.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/5885f966-b957-4e88-9b88-2918efd75bb4
+[04-08-2022 23:15:56] Checking 2acad569-0d81-4359-9080-e2a393ced111.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/78ba489f-5948-4e37-bcdc-c697f76b5e4a
+[04-08-2022 23:15:56] Checking 2acad569-0d81-4359-9080-e2a393ced111.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_player_up/layers/e21c66a7-c415-4278-9e4d-734856c75960
+[04-08-2022 23:15:56] Checking 2acad569-0d81-4359-9080-e2a393ced111.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost
+[04-08-2022 23:15:56] Checking spr_signpost.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/spr_signpost.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/spr_signpost.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/spr_signpost.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Signpost
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/layers
+[04-08-2022 23:15:56] Checking 6f888784-aae6-4ba1-b7d8-fe3c023853c6.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/layers
+[04-08-2022 23:15:56] Checking 6f888784-aae6-4ba1-b7d8-fe3c023853c6
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/layers/6f888784-aae6-4ba1-b7d8-fe3c023853c6
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_signpost/layers/6f888784-aae6-4ba1-b7d8-fe3c023853c6
+[04-08-2022 23:15:56] Checking 5ef673ae-90dc-41b9-9898-4fef0b20d3d7.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky
+[04-08-2022 23:15:56] Checking spr_sky.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/spr_sky.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/spr_sky.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Parallax Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/spr_sky.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Sky
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers
+[04-08-2022 23:15:56] Checking fd77d687-23fa-4495-84c4-968012d8416f.png
+[04-08-2022 23:15:56] Checking 9b5873b9-6230-476c-9919-825c40932131.png
+[04-08-2022 23:15:56] Checking 64ead8a1-669e-4f57-be5c-71b9a507039b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers
+[04-08-2022 23:15:56] Checking fd77d687-23fa-4495-84c4-968012d8416f
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/fd77d687-23fa-4495-84c4-968012d8416f
+[04-08-2022 23:15:56] Checking 9b5873b9-6230-476c-9919-825c40932131
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/9b5873b9-6230-476c-9919-825c40932131
+[04-08-2022 23:15:56] Checking 64ead8a1-669e-4f57-be5c-71b9a507039b
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/64ead8a1-669e-4f57-be5c-71b9a507039b
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/64ead8a1-669e-4f57-be5c-71b9a507039b
+[04-08-2022 23:15:56] Checking b6449b60-cf8b-4b08-8161-acc1eeb4887d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/9b5873b9-6230-476c-9919-825c40932131
+[04-08-2022 23:15:56] Checking b6449b60-cf8b-4b08-8161-acc1eeb4887d.png
+[04-08-2022 23:15:56] Checking a188f0c6-0bb0-4741-8ad8-616032557dd7.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_sky/layers/fd77d687-23fa-4495-84c4-968012d8416f
+[04-08-2022 23:15:56] Checking b6449b60-cf8b-4b08-8161-acc1eeb4887d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel
+[04-08-2022 23:15:56] Checking spr_small_barrel.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/spr_small_barrel.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/spr_small_barrel.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/spr_small_barrel.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Small_Barrel
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/layers
+[04-08-2022 23:15:56] Checking c1d1fe8e-764b-45f5-ad3c-c30fd9fb35e2.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/layers
+[04-08-2022 23:15:56] Checking c1d1fe8e-764b-45f5-ad3c-c30fd9fb35e2
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/layers/c1d1fe8e-764b-45f5-ad3c-c30fd9fb35e2
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_small_barrel/layers/c1d1fe8e-764b-45f5-ad3c-c30fd9fb35e2
+[04-08-2022 23:15:56] Checking ba27154d-233d-4c09-b382-f0ff731e5f86.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1
+[04-08-2022 23:15:56] Checking spr_stones1.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/spr_stones1.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/spr_stones1.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Sprites for Tilesets" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/spr_stones1.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Stones1
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/layers
+[04-08-2022 23:15:56] Checking dc88018e-e00f-41ad-af42-8b15a05bd28d.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/layers
+[04-08-2022 23:15:56] Checking dc88018e-e00f-41ad-af42-8b15a05bd28d
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/layers/dc88018e-e00f-41ad-af42-8b15a05bd28d
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_stones1/layers/dc88018e-e00f-41ad-af42-8b15a05bd28d
+[04-08-2022 23:15:56] Checking 0f912746-2f0e-498c-be63-78578ea60c14.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target
+[04-08-2022 23:15:56] Checking spr_target.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/spr_target.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/spr_target.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/spr_target.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Target
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/layers
+[04-08-2022 23:15:56] Checking 93f13543-600d-4a98-8766-973ba45efb5a.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/layers
+[04-08-2022 23:15:56] Checking 93f13543-600d-4a98-8766-973ba45efb5a
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/layers/93f13543-600d-4a98-8766-973ba45efb5a
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_target/layers/93f13543-600d-4a98-8766-973ba45efb5a
+[04-08-2022 23:15:56] Checking 756c74a3-9824-4208-b8a3-9dbd4f6fdbde.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch
+[04-08-2022 23:15:56] Checking spr_torch.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/spr_torch.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/spr_torch.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/spr_torch.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Torch
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/layers
+[04-08-2022 23:15:56] Checking 58d4ddf2-6053-4d96-9d1f-11b804157b6c.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/layers
+[04-08-2022 23:15:56] Checking 58d4ddf2-6053-4d96-9d1f-11b804157b6c
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/layers/58d4ddf2-6053-4d96-9d1f-11b804157b6c
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_torch/layers/58d4ddf2-6053-4d96-9d1f-11b804157b6c
+[04-08-2022 23:15:56] Checking 629011a3-3bf0-4887-8f2a-a9d5e191c1c1.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1
+[04-08-2022 23:15:56] Checking spr_tree1.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/spr_tree1.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/spr_tree1.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/spr_tree1.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Tree1
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/layers
+[04-08-2022 23:15:56] Checking 97369213-466d-4aff-a4c3-e651dd9dc8ae.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/layers
+[04-08-2022 23:15:56] Checking 97369213-466d-4aff-a4c3-e651dd9dc8ae
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/layers/97369213-466d-4aff-a4c3-e651dd9dc8ae
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_tree1/layers/97369213-466d-4aff-a4c3-e651dd9dc8ae
+[04-08-2022 23:15:56] Checking 0704fe9e-2483-48cc-a84c-8bdb87c94bae.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall
+[04-08-2022 23:15:56] Checking spr_wall.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/spr_wall.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/spr_wall.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Game Effects" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/spr_wall.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Wall
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/layers
+[04-08-2022 23:15:56] Checking 5208fda2-4fce-4780-a527-4a9e25551e1b.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/layers
+[04-08-2022 23:15:56] Checking 5208fda2-4fce-4780-a527-4a9e25551e1b
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/layers/5208fda2-4fce-4780-a527-4a9e25551e1b
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wall/layers/5208fda2-4fce-4780-a527-4a9e25551e1b
+[04-08-2022 23:15:56] Checking c0b25108-6cce-4ed7-a65b-13cce34a5f9f.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock
+[04-08-2022 23:15:56] Checking spr_warpblock.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/spr_warpblock.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/spr_warpblock.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Game Effects" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/spr_warpblock.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_WarpBlock
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/layers
+[04-08-2022 23:15:56] Checking e49f2010-bf3c-4a97-9ed7-9d0a3b94d82c.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/layers
+[04-08-2022 23:15:56] Checking e49f2010-bf3c-4a97-9ed7-9d0a3b94d82c
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/layers/e49f2010-bf3c-4a97-9ed7-9d0a3b94d82c
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_warpblock/layers/e49f2010-bf3c-4a97-9ed7-9d0a3b94d82c
+[04-08-2022 23:15:56] Checking dc3b6d4d-fb54-4879-8c84-dc76ebbee132.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest
+[04-08-2022 23:15:56] Checking spr_woodenchest.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/spr_woodenchest.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/spr_woodenchest.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/spr_woodenchest.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_WoodenChest
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/layers
+[04-08-2022 23:15:56] Checking 2d726caa-7655-4ae9-a4f7-d0c7674d4417.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/layers
+[04-08-2022 23:15:56] Checking 2d726caa-7655-4ae9-a4f7-d0c7674d4417
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/layers/2d726caa-7655-4ae9-a4f7-d0c7674d4417
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_woodenchest/layers/2d726caa-7655-4ae9-a4f7-d0c7674d4417
+[04-08-2022 23:15:56] Checking 47614311-1713-487d-ad83-f7788ebe4373.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium
+[04-08-2022 23:15:56] Checking spr_wooden_table_medium.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/spr_wooden_table_medium.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/spr_wooden_table_medium.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/spr_wooden_table_medium.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Wooden_Table_Medium
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/layers
+[04-08-2022 23:15:56] Checking 19c3220d-fc79-4d80-b2fa-004f357b970f.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/layers
+[04-08-2022 23:15:56] Checking 19c3220d-fc79-4d80-b2fa-004f357b970f
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/layers/19c3220d-fc79-4d80-b2fa-004f357b970f
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wooden_table_medium/layers/19c3220d-fc79-4d80-b2fa-004f357b970f
+[04-08-2022 23:15:56] Checking 6145bf30-9cf3-452f-b9c2-f2a39ab112ef.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate
+[04-08-2022 23:15:56] Checking spr_wood_crate.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/spr_wood_crate.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/spr_wood_crate.yy
+[04-08-2022 23:15:56] Par: "folders/Sprites/Prop Sprites" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/spr_wood_crate.yy"
+[04-08-2022 23:15:56] Found Sprite: spr_Wood_Crate
+[04-08-2022 23:15:56] Checking layers
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers
+[04-08-2022 23:15:56] Checking eeb44d7e-ef30-4ba3-b561-1606ec7dbb37.png
+[04-08-2022 23:15:56] Checking 711bb255-3771-4f1f-a458-0555214a6e24.png
+[04-08-2022 23:15:56] Checking 42265e4f-3617-4069-ad34-8d0a192632c5.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers
+[04-08-2022 23:15:56] Checking eeb44d7e-ef30-4ba3-b561-1606ec7dbb37
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/eeb44d7e-ef30-4ba3-b561-1606ec7dbb37
+[04-08-2022 23:15:56] Checking 711bb255-3771-4f1f-a458-0555214a6e24
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/711bb255-3771-4f1f-a458-0555214a6e24
+[04-08-2022 23:15:56] Checking 42265e4f-3617-4069-ad34-8d0a192632c5
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/42265e4f-3617-4069-ad34-8d0a192632c5
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/42265e4f-3617-4069-ad34-8d0a192632c5
+[04-08-2022 23:15:56] Checking af8a10bb-63de-4b6a-98f4-8c82195bc8bd.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/711bb255-3771-4f1f-a458-0555214a6e24
+[04-08-2022 23:15:56] Checking af8a10bb-63de-4b6a-98f4-8c82195bc8bd.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/sprites/spr_wood_crate/layers/eeb44d7e-ef30-4ba3-b561-1606ec7dbb37
+[04-08-2022 23:15:56] Checking af8a10bb-63de-4b6a-98f4-8c82195bc8bd.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets
+[04-08-2022 23:15:56] Checking t_stone1
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_stone1
+[04-08-2022 23:15:56] Checking t_grassy
+[04-08-2022 23:15:56] Directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_grassy
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_grassy
+[04-08-2022 23:15:56] Checking t_grassy.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_grassy/t_grassy.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_grassy/t_grassy.yy
+[04-08-2022 23:15:56] Par: "folders/Tile Sets" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_grassy/t_grassy.yy"
+[04-08-2022 23:15:56] Found TileSet: t_Grassy
+[04-08-2022 23:15:56] Checking output_tileset.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_stone1
+[04-08-2022 23:15:56] Checking t_stone1.yy
+[04-08-2022 23:15:56] Parsing C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_stone1/t_stone1.yy
+[04-08-2022 23:15:56] Reading C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_stone1/t_stone1.yy
+[04-08-2022 23:15:56] Par: "folders/Tile Sets" at dir: "C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/tilesets/t_stone1/t_stone1.yy"
+[04-08-2022 23:15:56] Found TileSet: t_Stone1
+[04-08-2022 23:15:56] Checking output_tileset.png
+[04-08-2022 23:15:56] Current parent directory: C:/Users/paulb/Documents/GameMakerStudio2/Anachromania New/timelines
+[04-08-2022 23:15:56] Moving files to trash...
+[04-08-2022 23:15:56] Files yeeted successfully!
+[04-08-2022 23:15:56] Generating YYP...
+[04-08-2022 23:15:56] Anachromania New.yyp created successfully!

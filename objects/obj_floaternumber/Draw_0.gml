@@ -1,0 +1,1 @@
+draw_text_transformed_color(x, y, damage, .3, .3, image_angle, c_black, c_black, c_black, c_black, index);
