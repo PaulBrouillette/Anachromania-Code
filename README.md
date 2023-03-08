@@ -1,2 +1,2 @@
 # Anachromania Code
- Code for the game Anachromania
+ Code for the game Anachromania by @PaulBrouillette
